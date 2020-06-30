@@ -102,7 +102,7 @@ Through SQL and Pandas, perform any necessary data cleaning and develop a query 
 
 ### 4. Modeling
 
-The focus this time is on prediction. Good prediction is a matter of the model generalizing well. Steps we can take to assure good generalization include: testing the model on unseen data, cross-validation, and regularization. What sort of model should you build? A diverse portfolio is probably best. Classification models we've looked at so far include logistic regression, decision trees, bagging, and boosting, each of these with different flavors. You are encouraged to try any or all of these.
+The focus this time is on prediction. Good prediction is a matter of the model generalizing well. Steps we can take to assure good generalization include: testing the model on unseen data, cross-validation, and regularization. What sort of model should you build? A diverse portfolio is probably best. Classification models we've looked at so far include logistic regression, knn, decision trees, bagging, and boosting (on Monday), each of these with different flavors. You are encouraged to try any or all of these.
 
 ### 5. Evaluation
 

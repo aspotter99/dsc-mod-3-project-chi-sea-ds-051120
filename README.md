@@ -18,7 +18,7 @@ For this project, you're going to select a dataset of your choosing and create a
 
 ### Datasets 
 
-You are allowed to select one of the four data sets described below. Each comes with its own advantages and disadvantages, and, of course, its own associated business problem and stakeholders. It may be desirable to flesh out your understanding of the audience or the business proposition a little more than sketched out here. If you select one of these four data sets, you **need no further approval from your instructor**.
+You are allowed to select one of the data sets described below. Each comes with its own advantages and disadvantages, and, of course, its own associated business problem and stakeholders. It may be desirable to flesh out your understanding of the audience or the business proposition a little more than sketched out here. If you select one of these four data sets, you **need no further approval from your instructor**.
 
 
 1) [Chicago Car Crash Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if). Note this links also to [Vehicle Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3) and to [Driver/Passenger Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d).
@@ -121,11 +121,6 @@ In this case, your "deployment" comes in the form of the deliverables listed abo
  - "How would you interpret the results?"
  - "How confident are you in the predictive quality of the results?"
  - "What are some of the things that could cause the results to be wrong?"
-
-
-## Grading Rubric 
-
-We are not using the online rubric, but it is [here](https://github.com/learn-co-curriculum/dsc-mod-3-project-v2-1/blob/master/module_3_project_rubric.pdf) for your reference.
 
 
 ## Citation

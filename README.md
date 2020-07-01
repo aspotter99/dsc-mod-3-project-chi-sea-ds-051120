@@ -119,7 +119,7 @@ Three things to be sure you establish during this phase are:
 
 ### 2. Data Understanding
 
-Write a script to download the data (or instructions for future users on how to manually download it), and explore it.  What Do you understand what the columns mean?  How will you select the subset of relevant data?  What kind of data cleaning is required?
+Write a script to download the data (or instructions for future users on how to manually download it), and explore it.  Do you understand what the columns mean?  Which column is the target?  What kind of data cleaning is required?
 
 It may be useful to generate visualizations of the data during this phase.
 

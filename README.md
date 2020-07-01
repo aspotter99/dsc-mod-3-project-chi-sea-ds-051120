@@ -14,11 +14,11 @@ The main goal of this project is to create a classification model. For this proj
 - choose a data set from a curated list
 - choose a preapproved dataset brought to the group by one of the members
 
-For this project, you're going to select a dataset of your choosing and create a classification model. You'll start by identifying a problem you can solve with classification, and then identify a dataset. You'll then use everything you've learned about Data Science and Machine Learning thus far to source a dataset, preprocess and explore it, and then build and interpret a classification model that answers your chosen question.
+After choosing your dataset, you'll then use everything you've learned about Data Science and Machine Learning thus far to source a dataset, preprocess and explore it, and then build and interpret a classification model that answers your chosen question.
 
 ### Datasets 
 
-You are allowed to select one of the data sets described below. Each comes with its own advantages and disadvantages, and, of course, its own associated business problem and stakeholders. It may be desirable to flesh out your understanding of the audience or the business proposition a little more than sketched out here. If you select one of these four data sets, you **need no further approval from your instructor**.
+You are allowed to select one of the data sets described below. Each comes with its own advantages and disadvantages, and, of course, its own associated business problem and stakeholders. It may be desirable to flesh out your understanding of the audience or the business proposition a little more than sketched out here. If you select one of these three data sets, you **need no further approval from your instructor**.
 
 
 1) [Chicago Car Crash Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Crashes/85ca-t3if). Note this links also to [Vehicle Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-Vehicles/68nd-jvt3) and to [Driver/Passenger Data](https://data.cityofchicago.org/Transportation/Traffic-Crashes-People/u6pd-qa9d).
@@ -58,6 +58,7 @@ You are allowed to select one of the data sets described below. Each comes with 
     - A record of your workflow should be stored in `notebooks/exploratory`. Don't be afraid to leave in error messages, so you know what didn't work!
 8. A user-focused `README.md` file that briefly covers your process, methodology and findings.
     - Someone with no context on your project should be able to use this document to understand the structure of your project, and adapt your code for their needs.
+    - Implied above is a schema which diagramming the route to important files.
 9. One final Jupyter Notebook file stored in `notebooks/report` that focuses on visualization and presentation
     - The very beginning of the notebook contains a description of the purpose of the notebook.
        - This is helpful for your future self and anyone of your colleagues that needs to view your notebook. Without this context, you’re implicitly asking your peers to invest a lot of energy to help solve your problem. Help them to jump into your project by providing them the purpose of this Jupyter Notebook.

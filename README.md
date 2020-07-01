@@ -131,17 +131,17 @@ Through Pandas (and/or SQL, if you like), perform any necessary data cleaning an
 
 Using the list of questions you generated during the Business Understanding step above as a guide, explore the relationships in your data without using an algorithm.  How do the features change in response to each other?  How does a feature change in response to the target?  Strategize how you can answer as many questions as you can without using modeling.  
 
-### 4. Modeling
+### 5. Modeling
 
 The focus this time is on prediction. Good prediction is a matter of the model generalizing well. Steps we can take to assure good generalization include: testing the model on unseen data, cross-validation, and regularization. What sort of model should you build? A diverse portfolio is probably best. Classification models we've looked at so far include logistic regression, knn, decision trees, bagging, and boosting (on Monday), each of these with different flavors. You are encouraged to try any or all of these.
 
-### 5. Evaluation
+### 6. Evaluation
 
 Recall that there are many different metrics we might use for evaluating a classification model. Accuracy is intuitive, but can be misleading, especially if you have class imbalances in your target. Perhaps, depending on you're defining things, it is more important to minimize false positives, or false negatives. It might therefore be more appropriate to focus on precision or recall. You might also calculate the AUC-ROC to measure your model's *discrimination*.
 
 Use your understanding of the business context to drive your decisions.
 
-### 6. Deployment
+### 7. Deployment
 
 In this case, your "deployment" comes in the form of the deliverables listed above. Make sure you can answer the following questions about your process:
 

@@ -41,37 +41,24 @@ You are allowed to select one of the data sets described below. Each comes with 
 ## DELIVERABLES
 
 1. A public GitHub repository.
-
 2. An `environment.yml` file that contains all the necessary packages needed to recreate your conda environment.
 3. A standalone `src/` directory that stores all relevant source code.
     - All functions have docstrings that act as [professional-quality documentation](http://google.github.io/styleguide/pyguide.html#381-docstrings). 
     - If applicable, [well documented](https://www.sqlstyle.guide/) SQL queries with appropriate single-line or multiline comments.
     - Quality classification model
        - Whenever necessary, briefly explain in comments the changes made from one iteration to the next, and why you made these choices
-
-
-4. A standalone `data/` directory that stores all relevant raw and processed data files.
+4. A standalone `data/` directory that stores all relevant raw and processed data files
     - **Be sure to include how the data was obtained!**
     - All large files are labeled in the `.gitignore` file to avoid having them accidentally live in your commit history.
-    
-
 5. A standalone `references/` directory that stores all relevant literature, data dictionaries, or useful references that were used to help you during the project.
     - Use this directory to store physical copies of the `.pdf` files; or
     - Create a `README.md` file that cites external resources that were used.
-    
-    
 6. A standalone `reports/` directory that stores your `presentation.pdf` files
-
-
 7. A standalone `notebooks/` directory that stores both your exploratory and report notebooks
     - A record of your workflow should be stored in `notebooks/exploratory`. Don't be afraid to leave in error messages, so you know what didn't work!
-
-
 8. A user-focused `README.md` file that briefly covers your process, methodology and findings.
     - Someone with no context on your project should be able to use this document to understand the structure of your project, and adapt your code for their needs.
     - Implied above is a schema which diagramming the route to important files.
-
-
 9. One final Jupyter Notebook file stored in `notebooks/report` that focuses on visualization and presentation
     - The very beginning of the notebook contains a description of the purpose of the notebook.
        - This is helpful for your future self and anyone of your colleagues that needs to view your notebook. Without this context, you’re implicitly asking your peers to invest a lot of energy to help solve your problem. Help them to jump into your project by providing them the purpose of this Jupyter Notebook.
@@ -80,8 +67,6 @@ You are allowed to select one of the data sets described below. Each comes with 
     - Custom functions and classes are imported from Python modules and are not created directly in the notebook. As soon as you have a working function in one of your exploratory notebooks, copy it over to `src` so it is reusable.
     - At least 4 meaningful data visualizations, with corresponding interpretations. All visualizations are well labeled with axes labels, a title, and a legend (when appropriate)
     - Take the time to make sure that you craft your story well, and clearly explain your process and findings in a way that clearly shows both your technical expertise and your ability to communicate your results!
-
-
 10. An "Executive Summary" Keynote/PowerPoint/Google Slide presentation (delivered as a PDF export) that explains what you have found.
     - Make sure to also add and commit this file as presentation.pdf of your non-technical presentation to your repository with a file name of `reports/presentation.pdf`.
     - Contain between 5-10 professional quality slides detailing:
